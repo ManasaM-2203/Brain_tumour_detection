@@ -7,7 +7,7 @@ It uses two specialized neural network models:
 
 ⚙️ Installation
 1️⃣ Clone the Repository
-    git clone https://github.com/yourusername/brain_tumor_detection.git
+    git clone https://github.com/yourusername/brain_tumor_detection.git](https://github.com/ManasaM-2203/Brain_tumour_detection/tree/main
     cd brain_tumor_detection
 
 2️⃣ Backend Setup (FastAPI)
