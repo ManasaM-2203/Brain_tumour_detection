@@ -41,7 +41,7 @@ npm start
   <li><strong>Models:</strong> UNet (ResNet34 encoder) for segmentation, ResNet34 for classification</li>
   <li><strong>Backend:</strong> FastAPI, Uvicorn</li>
   <li><strong>Frontend:</strong> React.js, Fetch API</li>
-  <li><strong>Other Tools:</strong> Pillow (PIL), Matplotlib, python-multipart</li>
+  <li><strong>Other Tools:</strong> Matplotlib, python-multipart</li>
 </ul>
 
 <h2>🚀 Usage</h2>
